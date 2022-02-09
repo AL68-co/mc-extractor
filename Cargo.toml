@@ -5,6 +5,7 @@ edition = "2021"
 license = "MIT OR Apache-2.0"
 description = "A way to get back the original files from the assets/ folder on Minecraft"
 authors = ["AlbertLarsan68"]
+repository = "https://github.com/AL68-co/mc-extractor"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
